@@ -1,0 +1,42 @@
+{
+  "name": "thedeploy-check",
+  "version": "0.1.0",
+  "description": "Will this repository deploy? Finds what it runs, what's missing (with the fix), committed secrets, and what it would cost in your own cloud. Free, no account.",
+  "type": "module",
+  "bin": {
+    "deploy-check": "index.mjs"
+  },
+  "files": [
+    "index.mjs",
+    "action.yml",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "deploy",
+    "deployment",
+    "readiness",
+    "dockerfile",
+    "secrets",
+    "github-action",
+    "digitalocean",
+    "aws",
+    "lovable",
+    "vibe-coding"
+  ],
+  "homepage": "https://thedploy.com/check",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avinash147-1193/deploy-check.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Avinash147-1193/deploy-check/issues"
+  },
+  "license": "MIT"
+}
