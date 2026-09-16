@@ -1,5 +1,7 @@
 # deploy-check
 
+[![npm](https://img.shields.io/npm/v/thedeploy-check)](https://www.npmjs.com/package/thedeploy-check) [![license](https://img.shields.io/npm/l/thedeploy-check)](./LICENSE)
+
 **Will this repository deploy?** One command tells you:
 
 - the services it found, and how each one builds, starts and listens
