@@ -1,5 +1,5 @@
 name: 'Deploy check by The Deployer'
-description: 'Will this repository deploy? What it runs, what is missing (with the fix), committed secrets, and the monthly cost in your own cloud.'
+description: 'Will this repository deploy? Services found, what is missing with the fix, committed secrets, and the monthly cost.'
 author: 'The Deployer'
 branding:
   icon: 'upload-cloud'
